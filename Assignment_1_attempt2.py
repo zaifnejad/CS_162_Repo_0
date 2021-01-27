@@ -85,7 +85,7 @@ def Main():
 
     Desk = {1:[], 2:[],3:[], 4:[]}
 
-    Menu = "Press the number associated with the menu option you would like to do:\n\n"
+    Menu = "\nPress the number associated with the menu option you would like to do:\n\n"
     Menu += "1) Add an object to the room.\n"
     Menu += "2) Look at recent object.\n"
     Menu += "3) Look at the objects in the room.\n"
